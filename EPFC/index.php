@@ -62,3 +62,4 @@ and open the template in the editor.
         //?>
     </body>
 </html>
+Ceci est la version 2
